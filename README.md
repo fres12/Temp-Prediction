@@ -6,5 +6,6 @@ Japura Bandar Udara Riau prediction with hybrid ARIMA LSTM modelling.
 
 
 ## Information
+This project use python for prediction modeling
 Dataset source: https://www.bps.go.id/id - Japura Bandara Riau from 2020-2024
-Python Prediction
+Find project documentation [here](https://docs.google.com/document/d/1sXff8S6AVDvXWsTHIL0zTayC2-oOhWY6/edit?usp=sharing&ouid=112111260589950430461&rtpof=true&sd=true)
